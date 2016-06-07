@@ -4,7 +4,7 @@ These projects were assignments of Classification Course at Coursera, provided b
 
 2.  Completed the logistic regression algorithm and implemented it on the Amazon Baby dataset.
 
-3.  Applied decision-tree models on the LendingClub dataset, tuned the parameters and compared the performances .
+3.  Applied decision-tree models on the LendingClub dataset, tuned the parameters and compared the performances.
 
 4.  Built a binary tree to do classification
 
