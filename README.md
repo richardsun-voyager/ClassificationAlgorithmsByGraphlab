@@ -1,5 +1,6 @@
 # ClassificationProjects
 These projects were assignments of Classification Course at Coursera, provided by University of Washington. They were related to realizations of classification algorithms, and the codes were written in Python based on SFrame, Graphlab package, a product of Dato Company. My work were as followings:
+
 1.  Train logistic regression models to predict the sentiment of product reviews, compared and interpreted the results.
 
 2.  Completed the logistic regression algorithm and implemented it on the Amazon Baby dataset.
