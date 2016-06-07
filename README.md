@@ -9,7 +9,7 @@ These projects were assignments of Classification Course at Coursera, provided b
 4.  Built a binary tree to do classification
 
 (to be continue)
-
+ 
 # Instruction
 Make sure that you are using GraphLab Create 1.8.3. See this post for installing the correct version of GraphLab Create:
 https://www.coursera.org/learn/ml-classification/supplement/LgZ3I/installing-correct-version-of-graphlab-create.
