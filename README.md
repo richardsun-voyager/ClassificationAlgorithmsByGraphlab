@@ -9,7 +9,9 @@ These projects were assignments of Classification Course at Coursera, provided b
 
 4.  Built a binary tree to do classification
 
-(to be continue)
+5.  Analysed precisions adn recalls of clssifiers
+
+6.  Stochastic Gradient Descending methods for large scales of data
  
 # Instruction
 Make sure that you are using GraphLab Create 1.8.3. See this post for installing the correct version of GraphLab Create:
