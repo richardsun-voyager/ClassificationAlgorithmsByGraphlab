@@ -9,7 +9,7 @@ These projects were assignments of Classification Course at Coursera, provided b
 
 4.  Built a binary tree to do classification
 
-5.  Analysed precisions adn recalls of clssifiers
+5.  Analysed precisions adn recalls of classifiers
 
 6.  Stochastic Gradient Descending methods for large scales of data
  
