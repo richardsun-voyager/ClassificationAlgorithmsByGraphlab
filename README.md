@@ -17,7 +17,7 @@ These projects were assignments of Classification Course at Coursera, provided b
 Make sure that you are using GraphLab Create 1.8.3. See this post for installing the correct version of GraphLab Create:
 https://www.coursera.org/learn/ml-classification/supplement/LgZ3I/installing-correct-version-of-graphlab-create.
 
-The course contents can be found at https://www.coursera.org/learn/ml-regression/home.
+The course contents can be found at https://www.coursera.org/learn/ml-classification/home.
 
 
 
